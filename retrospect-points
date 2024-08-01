@@ -1,0 +1,9 @@
+Improvement points:
+1) Adding more unit test cases
+2) Communication regarding the PBI's could done using PBI's discussion functionality so everything preserved in on place.
+3) Try to identify gaps in requirements in bit earlier
+4) adding improving documentation.
+5) Regression test suite for critical applications.
+6) Development team needs to know whole functionality of feature delivering.
+7) Ensure adding proper logging in code.
+8) Add checklist tasks are performed before deployment
