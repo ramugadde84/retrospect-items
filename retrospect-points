@@ -7,3 +7,6 @@ Improvement points:
 6) Development team needs to know whole functionality of feature delivering.
 7) Ensure adding proper logging in code.
 8) Add checklist tasks are performed before deployment
+
+Some important points:
+1) Add Request json and Response json in code alone.
